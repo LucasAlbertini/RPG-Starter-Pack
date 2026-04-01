@@ -1,2 +1,2 @@
 # RPG-Starter-Pack
-Learning GameMaker
+Learning GameMaker with RPG official template
